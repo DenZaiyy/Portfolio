@@ -1,6 +1,6 @@
 # FreeCodeCamps - Portfolio avec HTML/CSS/JS\
 
-Projet [FreeCodeCamps](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/){:target="\_blank"} ayant pour but de crée un portfolio en HTML CSS JS
+Projet [FreeCodeCamps](https://www.freecodecamp.org/news/create-a-portfolio-website-using-html-css-javascript/) ayant pour but de crée un portfolio en HTML CSS JS
 
 ## Fonctionnalités
 
